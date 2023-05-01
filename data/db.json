@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "title": "A new note",
+      "body": "text text",
+      "id": "A477e",
+      "important": false
+    },
+    {
+      "title": "Another Note",
+      "body": "text text text",
+      "id": "A185e",
+      "important": false
+    }
+  ]
+}

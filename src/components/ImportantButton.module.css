@@ -1,0 +1,17 @@
+:root {
+    --important: rgb(255, 183, 0);
+    --notImportant: rgb(171, 171, 171);
+}
+
+.active {
+    color: var(--important);
+}
+
+.notActive {
+    color: var(--notImportant);
+}
+
+.notActive:hover{
+    color: var(--important);
+    cursor: pointer;
+}
